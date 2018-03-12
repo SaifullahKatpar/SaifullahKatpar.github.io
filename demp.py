@@ -1,2 +1,1 @@
-def func():
-    print('saif')
+def func():print('saif')
